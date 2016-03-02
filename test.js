@@ -19,4 +19,3 @@ function findPoints(ms) {
   return numeric.dot(pinv(A), B);
 }
 
-exports.findPoints = findPoints;
